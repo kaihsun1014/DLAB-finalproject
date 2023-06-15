@@ -1,6 +1,6 @@
 # group1_finalproject
 
-This is used to share our final project-Tetris to everyone.
+This repo is used to share our final project-Tetris to everyone.
 
 ## Preparation
 
