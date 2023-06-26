@@ -1,4 +1,4 @@
-# group1_finalproject
+# DLAB_finalproject
 
 This repo is used to share our final project-Tetris to everyone.
 
